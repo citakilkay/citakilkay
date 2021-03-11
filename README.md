@@ -1,5 +1,5 @@
 ## 👋Hey there
- I'm **Ilkay Citak**. I have been interested in programming for nearly 2 years but I have studied on Web Development field for 5 months. Also, I am studying architecture at Yildiz Technical University(4/4).
+ I'm **Ilkay Citak**. I have been interested in programming for nearly 2 years but I have been studying in Web Development field for 5 months. Also, I am studying architecture at Yildiz Technical University(4/4).
 
 ### :computer: I used:
 * HTML & CSS
