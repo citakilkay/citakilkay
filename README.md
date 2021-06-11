@@ -1,5 +1,4 @@
 <h2>Hi 👋, I'm Ilkay</h2>
-<h3>A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **[memories-app](https://github.com/citakilkay/memories-app)**.
 
