@@ -1,5 +1,5 @@
-<h3>Hi 👋, I'm Ilkay</h3>
-<h4>A passionate frontend developer from Turkey</h4>
+<h2>Hi 👋, I'm Ilkay</h2>
+<h3>A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **[memories-app](https://github.com/citakilkay/memories-app)**.
 
@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/citakilkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="citakilkay" height="30" width="40" /></a>
 </p>
 
-# :computer: I recently work with:
+#### :computer: I recently work with:
 
 * HTML5
 * CSS3
