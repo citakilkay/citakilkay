@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/citakilkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="citakilkay" height="30" width="40" /></a>
 </p>
 
-## :computer: I recently work with:
+# :computer: I recently work with:
 
 * HTML5
 * CSS3
