@@ -34,6 +34,3 @@
 * AWS
 * Heroku
 * Postman
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=citakilkay&show_icons=true&locale=en" alt="citakilkay" /></p>
-
