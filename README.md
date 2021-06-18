@@ -1,5 +1,4 @@
 <h2>Hi 👋, I'm Ilkay</h2>
-
 - 🔭 I’m currently working on **[memories-app](https://github.com/citakilkay/memories-app)**.
 
 - 🤝 I’m looking for help with **[tictactoe](https://github.com/citakilkay/Games/tree/main/tictactoe)** about **Min-Max algorithm**.
