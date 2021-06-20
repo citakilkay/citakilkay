@@ -1,5 +1,4 @@
 <h2>Hi 👋, I'm Ilkay</h2>
-<h3>I am currently looking for a job as a front end developer.</h3>
 
 - 🔭 I’m currently working on **[memories-app](https://github.com/citakilkay/memories-app)**.
 
