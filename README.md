@@ -29,7 +29,7 @@
 * Express
 * MongoDB
 * Git, Github
-* Photoshop
+* Socket.io
 * AWS
 * Heroku
 * Postman
