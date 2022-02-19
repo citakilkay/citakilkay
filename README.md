@@ -24,12 +24,13 @@
 * Javascript ES6+
 * ReactJS
 * SASS
-* Bootstrap
+* C#
+* .Net/.Net Core Framework
+* Typescript
 * NodeJS
 * Express
 * MongoDB
-* Git, Github
+* Git, Github, Bİtbucket
 * Socket.io
 * AWS
 * Heroku
-* Postman
