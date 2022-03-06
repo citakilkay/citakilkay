@@ -1,10 +1,8 @@
 <h2>Hi 👋, I'm Ilkay</h2>
 
-- 🔭 I’m currently working on **[memories-app](https://github.com/citakilkay/memories-app)**.
+- 🔭 I’m currently working on **[activitiesApp](https://github.com/citakilkay/activitiesApp)**.
 
 - 🤝 I’m looking for help with **[tictactoe](https://github.com/citakilkay/Games/tree/main/tictactoe)** about **Min-Max algorithm**.
-
-- 🤝 I’m looking for help with **[memories-app](https://github.com/citakilkay/memories-app)** about **Authentication**.
 
 - 📫 How to reach me **citakilkay@gmail.com**
 
@@ -24,6 +22,8 @@
 * Javascript ES6+
 * ReactJS
 * SASS
+* DevExtreme
+* SemanticUI
 * C#
 * .Net/.Net Core Framework
 * Typescript
