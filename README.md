@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Ilkay</h2>
 
-- 🔭 I’m currently working on **[activitiesApp](https://github.com/citakilkay/activitiesApp)**.
+- 🔭 I’m currently working on **[nestjs-tasks-management](https://github.com/citakilkay/nestjs-tasks-management)**.
 
 - 🤝 I’m looking for help with **[tictactoe](https://github.com/citakilkay/Games/tree/main/tictactoe)** about **Min-Max algorithm**.
 
@@ -29,6 +29,8 @@
 * Typescript
 * NodeJS
 * Express
+* NestJs
+* MSSQL
 * MongoDB
 * Git, Github, Bİtbucket
 * Socket.io
