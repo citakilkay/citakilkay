@@ -32,7 +32,7 @@
 * NestJs
 * MSSQL
 * MongoDB
-* Git, Github, Bİtbucket
+* Git, Github, Bitbucket
 * Socket.io
 * AWS
 * Heroku
