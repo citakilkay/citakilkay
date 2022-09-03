@@ -34,5 +34,6 @@
 * MongoDB
 * Git, Github, Bitbucket
 * Socket.io
+* GraphQL
 * AWS
 * Heroku
