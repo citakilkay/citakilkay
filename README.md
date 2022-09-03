@@ -17,23 +17,12 @@
 
 #### :computer: I recently work with:
 
-* HTML5
-* CSS3
-* Javascript ES6+
-* ReactJS
-* SASS
-* DevExtreme
-* SemanticUI
-* C#
-* .Net/.Net Core Framework
-* Typescript
-* NodeJS
-* Express
-* NestJs
-* MSSQL
-* MongoDB
+* HTML5,
+* CSS3, SASS
+* Javascript ES6+, Typescript, ReactJS, DevExtreme
+* NodeJS, Express, NestJs
+* C#, .Net/.Net Core Framework
+* MSSQL, MongoDB
 * Git, Github, Bitbucket
-* Socket.io
-* GraphQL
-* AWS
-* Heroku
+* RestApi, Socket.io, GraphQL
+* AWS, Heroku
