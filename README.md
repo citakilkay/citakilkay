@@ -20,8 +20,8 @@
 * HTML5,
 * CSS3, SASS
 * Javascript ES6+, Typescript, ReactJS, DevExtreme
-* NodeJS, Express, NestJs
-* C#, .Net/.Net Core Framework
+* NodeJS, Express, NestJs, TypeORM
+* C#, .Net/.Net Core Framework, Entity Framework Core
 * MSSQL, MongoDB
 * Git, Github, Bitbucket
 * RestApi, Socket.io, GraphQL
