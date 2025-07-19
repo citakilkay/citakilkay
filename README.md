@@ -1,9 +1,5 @@
 <h2>Hi 👋, I'm Ilkay</h2>
 
-- 🔭 I’m currently working on **[nestjs-tasks-management](https://github.com/citakilkay/nestjs-tasks-management)**.
-
-- 🤝 I’m looking for help with **[tictactoe](https://github.com/citakilkay/Games/tree/main/tictactoe)** about **Min-Max algorithm**.
-
 - 📫 How to reach me **citakilkay@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
@@ -19,7 +15,7 @@
 
 * HTML5
 * CSS3, SASS, SemanticUI, AntD, PrimeFaces
-* Javascript ES6+, Typescript, ReactJS, DevExtreme, Jotai, MobX
+* Javascript ES6+, Typescript, ReactJS, Remix, DevExtreme, Jotai, MobX
 * NodeJS, Express, NestJs, TypeORM
 * C#, .Net/.Net Core Framework, Entity Framework Core
 * MSSQL, MongoDB, PostgreSQL, Hasura
